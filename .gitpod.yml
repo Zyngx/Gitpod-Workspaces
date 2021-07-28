@@ -1,0 +1,9 @@
+#
+# // Copyright (C) 2021 iambrianscape (brianscape)
+#
+
+# Image Location
+image:
+  file: .gitpod.dockerfile
+
+# End
